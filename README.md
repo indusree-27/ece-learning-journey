@@ -1,6 +1,6 @@
 # Hi there, I'm Indusree 👋
 
-🎓 First-Year Electronics and Communication Engineering (ECE) Student
+🎓 2nd-Year Electronics and Communication Engineering (ECE) Student
 
 ## About Me
 - 📡 Passionate about Electronics and Communication Engineering
