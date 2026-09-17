@@ -3,11 +3,11 @@
 🎓 2nd-Year Electronics and Communication Engineering (ECE) Student
 
 ## About Me
-- 📡 Passionate about Electronics and Communication Engineering
-- ⚡ Interested in Embedded Systems and IoT
-- 💻 Learning C Programming and Python
-- 🔧 Exploring Arduino and Microcontrollers
-- 🚀 Building my technical skills through projects and continuous learning
+-  Passionate about Electronics and Communication Engineering
+-  Interested in Embedded Systems and IoT
+-  Learning C Programming and Python
+-  Exploring Arduino and Microcontrollers
+-  Building my technical skills through projects and continuous learning
 
 ## Current Goals
 - Learn Embedded Systems
